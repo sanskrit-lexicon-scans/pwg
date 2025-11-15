@@ -4,6 +4,11 @@ This repository contains images for the dictionary *Böhtlingk and Roth Grosses 
 
 For usage, see [documentation](https://github.com/sanskrit-lexicon-scans/documentation).
 
+## pdfpages (11-15-2025)
+These pdf images supplied by @Andhrabharati
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/161
+
+## pdfpages_v1
 The digitization of these images was prepared by Thomas Malten and others, and
 is available at the [Cologne Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/).
 
